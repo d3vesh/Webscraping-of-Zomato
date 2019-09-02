@@ -2,6 +2,7 @@
 
 
 The following repo is an attempt to get required data todoanin depth analysis of the the restaurant industry in the financial capital of India. Mumbai is also the most diverse city in the Country.  So analysis would provide a good picture of the favorable type of restaurant in the city.
+Note: The current repo is under progress and may need change. 
 
 Data extracted  from the site:
 * "Name"
