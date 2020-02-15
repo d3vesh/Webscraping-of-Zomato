@@ -8,7 +8,7 @@
 ### Table of Contents
 1) Introduction
 2) About the website
-3)Installations and Versions
+3) Installations and Versions
 4) Built with
 5) Source
 6) Conclusion
@@ -38,7 +38,7 @@ In this article, we'll be scraping data from Zomato's webpage (https://www.zomat
 
 ### Built With
 ---
-Jupyter
+Jupyter <br>
 Selenium
 <br>
 
