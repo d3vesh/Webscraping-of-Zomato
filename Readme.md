@@ -32,7 +32,7 @@ In this article, we'll be scraping data from Zomato's webpage (https://www.zomat
 ---
 1. Python -  [Python 3.7.6](http://https://www.python.org/downloads/release/python-376/ "[Python 3.7.6]")
 2. Selenium Webdriver - [ChromeDriver 79.0.3945.36](http://https://chromedriver.storage.googleapis.com/index.html?path=79.0.3945.36/ "chromedriver")
-3. BeautifulSoup - [BeautifulSoup4 - 4.8.2](htpip install beautifulsoup4tp:// "BeautifulSoup4")
+3. BeautifulSoup - [BeautifulSoup4](http://https://pypi.org/project/beautifulsoup4/ "BeautifulSoup4")
 <br>
 
 
