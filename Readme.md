@@ -1,25 +1,34 @@
 # Web scraping Of Top Restaurants in Mumbai from Zomato
-######Web scraping tool created with BeautifulSoup and Selenium.
+
+
+######  Web scraping tool created with BeautifulSoup and Selenium.
 <br>
 
-###Table of Contents
+
+### Table of Contents
 1) Introduction
 2) About the website
 3)Installations and Versions
 4) Built with
 5) Source
 6) Conclusion
-###Introduction
+<br>
+
+
+### Introduction
 ---
 The following repo is an attempt to get **required data** from Zomato's website, to do an in depth analysis of the the restaurant industry in the financial capital of India. Here, Selenium is used to automate the browser for dynamic page of Zomato and BeautifulSoup is used for parsing.
 Mumbai is also the most diverse city in the Country.  So analysis would provide a good picture of the favorable type of restaurant in the city.
 <br>
-###About the Website
+
+
+### About the Website
 ---
 In this article, we'll be scraping data from Zomato's webpage (https://www.zomato.com/mumbai/great-food-no-bull) which gives highest-rated restaurants in Mumbai. The number of restaurants will keep on changing and there are many of them to manually click on each restaurant and gets its data. Thank God we have **Web scraping**.
 <br>
 
-###Installations and Versions
+
+### Installations and Versions
 ---
 1. Python -  [Python 3.7.6](http://https://www.python.org/downloads/release/python-376/ "[Python 3.7.6]")
 2. Selenium Webdriver - [ChromeDriver 79.0.3945.36](http://https://chromedriver.storage.googleapis.com/index.html?path=79.0.3945.36/ "chromedriver")
