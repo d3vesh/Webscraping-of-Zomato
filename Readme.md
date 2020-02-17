@@ -44,7 +44,7 @@ Selenium
 
 ### Project Status
 ---
-This project has been completed sucessfully and is effectively scraping data from the provided website, which will be used to do analysis and help me to do analysis of the restaurants types in the city of Mumbai.
+This project has been completed sucessfully and is effectively scraping data from the provided website, which will be used to do analysis of the restaurants types in the city of Mumbai.
 <br>
 
 ### Source
@@ -57,19 +57,19 @@ This project has been completed sucessfully and is effectively scraping data fro
 ### Conclusion
 ---
 Data extracted  from the site:
-* "Name"
-* "Area"
-* "Type"
-* "Rating"
-* "Ph_Number"
-* "Cuisine"
-* "Avg_price"
-* "Beer"
-* "Time"
-* "Adress"
-* "Facility"
-* "Food_Rating"
-* "Service_Rating"
-* "Ambience_Rating"
+* **Name**: Name of Restaurant.
+* **Area**: Area Residing in (for simplicity taken to be the nearest Railway Station).
+* **Type**: Type of Restaurant.
+* **Rating**: Rating of Restaurant on Zomato.
+* **Ph_Number**: Phone Number of Restaurant.
+* **Cuisine**: Cuisines available at Restaurant.
+* **Avg_price**: Average price for two.
+* **Beer**: Price for beer for 2
+* **Time**: Operating time of Restaurant (in terms of either Breakfast/Lunch/Dinner/Brunch...)
+* **Address**: Address of Restaurant.
+* **Facility**: Facilities available at Restaurant.
+* **Food_Rating**: Food rating given by Zomato users.
+* **Service_Rating**: Service Rating given by Zomato users.
+* **Ambience_Rating**: Ambience Rating given by Zomato users.
 
 
